@@ -60,7 +60,7 @@ Public health teams need a quick way to spot which population groups carry the h
 
 ## 🖼 Dashboard Preview
 
-![COVID-19 Analysis Dashboard](./screenshot/dashboard_screenshot.png)
+![COVID-19 Analysis Dashboard](./screenshot/Dashboard_screenshot.png)
 
 ---
 
@@ -68,7 +68,7 @@ Public health teams need a quick way to spot which population groups carry the h
 
 - `COVID_data.twb` — Tableau workbook (open with Tableau Desktop or Tableau Public)
 - `/data/Covid_Data_csv.xlsx` — source dataset
-- `/screenshot/dashboard_screenshot.png` — dashboard preview image
+- `/screenshot/Dashboard_screenshot.png` — dashboard preview image
 
 ---
 
